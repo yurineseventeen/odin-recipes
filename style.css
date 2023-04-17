@@ -1,8 +1,24 @@
 .button{
     background-color:orange;
+    padding: 10px 50px;
 }
 
 h1{
     background-color: orange;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
+
+.ingredients{
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    background-color: #000000;
+    
+}
+
+.steps{
+    color:white;
+    background-color:#000000;
+}
+
